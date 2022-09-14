@@ -7,4 +7,21 @@
 BARe repository VUlnerability Scanner
 
 
+The surest way to corrupt a youth is to  
+instruct him to hold in higher esteem  
+those who think alike than  
+those who think differently.
+[Nietzsche]
 
+
+Dependencies
+============
+
+- unix tools: sh, awk, sed, find
+- git
+- <https://github.com/aquasecurity/trivy>
+
+
+
+Contribution Welcome.
+See LICENSE for details.
